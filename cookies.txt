@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sensuality.mx	TRUE	/	FALSE	1999999999	yith_wcwl_session_af857b0e02166a16e6d04b313e4eff9c	%7B%22session_id%22%3A%22a28cb2e13c8b517e9fc484741c2280e9%22%2C%22session_expiration%22%3A1713510577%2C%22session_expiring%22%3A1713506977%2C%22cookie_hash%22%3A%224146140e4fd4bb44d96d4aaa96e93bb8%22%7D
+sensuality.mx	TRUE	/	FALSE	1999999999	wp_woocommerce_session_af857b0e02166a16e6d04b313e4eff9c	t_4f956530c36b38540018e137deff68%7C%7C1711091751%7C%7C1711088151%7C%7Cec252f197649ae649fd3dfa3f4324fb1
+sensuality.mx	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+sensuality.mx	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	96afcdab748e0089b3097588d7cb0f7c
+www.pinterest.com	TRUE	/	FALSE	1999999999	csrftoken	195bc71ad677b4d98a8f18a319d3a8ae
+.pinterest.com	TRUE	/	FALSE	1999999999	_pinterest_sess	TWc9PSZWNkpRdWFhZHZKTmFUODdMYTh0V2Q1cHlYMlA0MUphYVliRVozNEpVK005UW9VZWFHVWxZcWI5MlpqM3Ftb2pEUnBwaFRaS2NScmZDbUM4V3dBb01GWmdKeUtFQ1JHdGloOWE2UWxlaERXND0mOGNJajRpajIvY1Ezem9lUHdyZ0JicHhHb2FFPQ==
+www.pinterest.com	TRUE	/	FALSE	1999999999	samesite	none
+.pinterest.com	TRUE	/	FALSE	1999999999	_auth	0
+www.pinterest.com	TRUE	/	FALSE	1999999999	_routing_id	87d30f68-99b8-4f45-90b6-b0955fd57c02"
+
